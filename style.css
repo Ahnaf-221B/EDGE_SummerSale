@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+:root {
+    --banner-bg: rgba(249, 246, 226, 1);
+    --btn-bg: rgba(229, 39, 178, 1);
+    --dark-1: rgba(17, 17, 17, 1);
+    --dark-2: rgba(17, 17, 17, 0.5);
+    --card-img-bg: rgba(17, 17, 17, 0.05);
+    --main-bg: rgba(17, 17, 17, 0.15);
+}
+* {
+    font-family: "Work Sans", sans-serif;
+}
+
+body {
+    max-width: 120rem;
+    margin: auto;
+
+}
+
